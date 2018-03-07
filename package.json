@@ -1,0 +1,23 @@
+{
+  "name": "js-assessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^22.4.2"
+  },
+  "scripts": {
+    "test": "npm run jest --watchAll --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandor11/js-assessment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandor11/js-assessment/issues"
+  },
+  "homepage": "https://github.com/sandor11/js-assessment#readme"
+}
